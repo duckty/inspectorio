@@ -1,0 +1,5 @@
+#install flask framework
+pip install Flask
+#run a test
+$ FLASK_APP=run.py flask run
+Run with nginx/uwsgi
